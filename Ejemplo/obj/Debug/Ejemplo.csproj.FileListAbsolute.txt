@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Usuario\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
